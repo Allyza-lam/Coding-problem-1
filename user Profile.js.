@@ -1,0 +1,9 @@
+let fullName = "Allyza J.Nantuna";
+let age = 19;
+let favoriteNumber = 22;
+let favoriteColor = "blue";
+
+console.log(fullName);
+console.log(age);
+console.log(favoriteNumber);
+console.log(favoriteColor);
